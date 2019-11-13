@@ -1,3 +1,3 @@
 function nomes(nome1, nome2) {
-    return("Ana" + " e " + "Danilo");
+ return(nome1 + " e " + nome2);
 }
