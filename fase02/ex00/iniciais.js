@@ -1,3 +1,3 @@
 function iniciais(palavra) {
- return palavra.substr(0,3);
+    return palavra.substr(0,3);
 }
